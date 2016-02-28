@@ -1,0 +1,15 @@
+FizzBuzz.iml
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/copyright/profiles_settings.xml
+.idea/libraries/Maven__junit_junit_3_8_1.xml
+target/classes/softeam/cadextan/sg/test/kata/App.class
+target/classes/softeam/cadextan/sg/test/kata/service/KataService.class
+target/classes/softeam/cadextan/sg/test/kata/service/KataServiceImpl.class
+target/classes/softeam/cadextan/sg/test/kata/utils/KataUtils.class
+target/test-classes/softeam/cadextan/sg/test/kata/KataUtilsTest.class
